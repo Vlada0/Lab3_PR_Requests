@@ -1,0 +1,9 @@
+c:\users\vlada\documents\visual studio 2015\Projects\LabHTTP\LabHTTP\bin\Debug\LabHTTP.exe.config
+c:\users\vlada\documents\visual studio 2015\Projects\LabHTTP\LabHTTP\bin\Debug\LabHTTP.exe
+c:\users\vlada\documents\visual studio 2015\Projects\LabHTTP\LabHTTP\bin\Debug\LabHTTP.pdb
+c:\users\vlada\documents\visual studio 2015\Projects\LabHTTP\LabHTTP\obj\Debug\LabHTTP.csprojResolveAssemblyReference.cache
+c:\users\vlada\documents\visual studio 2015\Projects\LabHTTP\LabHTTP\obj\Debug\LabHTTP.Form1.resources
+c:\users\vlada\documents\visual studio 2015\Projects\LabHTTP\LabHTTP\obj\Debug\LabHTTP.Properties.Resources.resources
+c:\users\vlada\documents\visual studio 2015\Projects\LabHTTP\LabHTTP\obj\Debug\LabHTTP.csproj.GenerateResource.Cache
+c:\users\vlada\documents\visual studio 2015\Projects\LabHTTP\LabHTTP\obj\Debug\LabHTTP.exe
+c:\users\vlada\documents\visual studio 2015\Projects\LabHTTP\LabHTTP\obj\Debug\LabHTTP.pdb
